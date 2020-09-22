@@ -11,7 +11,7 @@ Files:
             4)The re-login screen
             5)The password re-entry match process
             6)Providing/denying access
-            GOL library is extensively used.
+            GOL library is used extensively to create buttons, text entry boxes and direction keys.
             
 Apart from this extensive support is needed for interacting with the touch screen/lcd, creating graphic objects. All this is available from MLA files available on the PIC website.
 
